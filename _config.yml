@@ -1,0 +1,28 @@
+name: brierley
+favicon: null
+layout_spectrum: 0.75227
+typography_spectrum: 0.6749836294911802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8369923590216786
+  lightness: 0.5129738308023661
+  saturation: 0.7336475213523954
+  rhythmicContrast: 0.9938598012086004
+purpose: []

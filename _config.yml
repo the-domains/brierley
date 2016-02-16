@@ -1,7 +1,7 @@
 name: brierley
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.84396
+layout_spectrum: 0.2291217080783099
+typography_spectrum: 0.6749836294911802
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a3a3a3'
-    - '#838383'
-    - '#686868'
-    - '#272727'
-    - '#c3c3c3'
-  brandStrength: 0.375
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8369923590216786
   lightness: 0.5129738308023661
   saturation: 0.7336475213523954
   rhythmicContrast: 0.9938598012086004

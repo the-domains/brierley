@@ -1,7 +1,7 @@
 name: brierley
 favicon: null
-layout_spectrum: 0.75227
-typography_spectrum: 0.6749836294911802
+layout_spectrum: 1
+typography_spectrum: 0.84396
 cta:
   domain: null
   bucket: null

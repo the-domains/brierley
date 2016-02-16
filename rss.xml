@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[brierley]]></title>
         <description><![CDATA[brierley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brierley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 22:00:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 22:14:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brierley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f7a030-d964-4fbd-81ba-1ea7169a38a7.png">]]></description>
+            <link>https://thegrid.ai/brierley/5d56f13b-91a0-4326-a278-06e521467b06/index.html</link>
+            <guid isPermaLink="false">5d56f13b-91a0-4326-a278-06e521467b06</guid>
+            <pubDate>Tue, 16 Feb 2016 22:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79e626b1-567b-4914-912f-d9bc852dbdca.jpg">]]></description>
+            <link>https://thegrid.ai/brierley/e4af437e-f4ec-470c-93aa-7e7797abeca1/index.html</link>
+            <guid isPermaLink="false">e4af437e-f4ec-470c-93aa-7e7797abeca1</guid>
+            <pubDate>Tue, 16 Feb 2016 22:05:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7acf89f5-52f0-4e82-8d38-3ee9c45e4839.jpg">]]></description>
-            <link>undefineda282cb30-dc88-4bca-9a97-97fe3cde4b43/index.html</link>
+            <link>https://thegrid.ai/brierley/a282cb30-dc88-4bca-9a97-97fe3cde4b43/index.html</link>
             <guid isPermaLink="false">a282cb30-dc88-4bca-9a97-97fe3cde4b43</guid>
             <pubDate>Tue, 16 Feb 2016 22:00:22 GMT</pubDate>
         </item>
